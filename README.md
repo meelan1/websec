@@ -32,10 +32,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots here after first run)*
-
 ---
 
 ## 🚀 Installation
